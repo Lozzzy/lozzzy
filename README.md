@@ -1,10 +1,7 @@
-
-
-
-
-<h1 align="center">Hi 👋, I'm Young hun</h1>
-<h3 align="center">Good Developer</h3>
-
+<div align= "center">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:a636e2,100:2e6fd6&height=180&text=Hi%20👋,%20I'm%20Young%20hun&animation=fadeIn&fontColor=cce0ea&fontSize=40" />
+    </div>
+    
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lozzzy&label=Profile%20views&color=0e75b6&style=flat" alt="lozzzy" /> </p>
 
 - 🌱 I’m currently learning **Spring, OpenCV**
