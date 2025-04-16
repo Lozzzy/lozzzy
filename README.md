@@ -24,6 +24,12 @@
 <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=OpenJDK&logoColor=white">
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=lozzzy&show_icons=true&locale=en&layout=compact" alt="lozzzy" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lozzzy&show_icons=true&locale=en" alt="lozzzy" /></p>
+<h3 align="center">👩‍💻 My Github Stats 👩‍💻 </h3>
+
+<div align="center">
+<!-- 깃헙 정보 -->
+
+[![Lozzzy's github stats](https://github-readme-stats.vercel.app/api?username=Lozzzy&hide_title=true&show_icons=true&disable_animations=true&theme=onedark)](https://github.com/Lozzzy)
+
+</div>
