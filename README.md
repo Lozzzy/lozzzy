@@ -4,9 +4,9 @@
     
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=lozzzy&label=Profile%20views&color=0e75b6&style=flat" alt="lozzzy" /> </p>
 
-- 🌱 I’m currently learning **Spring, OpenCV**
+<!--- 🌱 I’m currently learning **Spring, OpenCV**
 
-- 📫 How to reach me **dudgns010801@icloud.com**
+- 📫 How to reach me **dudgns010801@icloud.com**-->
 
 <h3 align="center">☎ Connect with me ☎</h3>
 <p align="center">
